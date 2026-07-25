@@ -13,8 +13,10 @@
   </a>
 </p>---
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydXY5ZTdpNWczaGh5NnB4dXh3d25xNXJ1eWF1NWFrMjBjbWx5eTJ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I1afi5lDXT7liYatsR/giphy.gif" width="230"/>
-</p>
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydXY5ZTdpNWczaGh5NnB4dXh3d25xNXJ1eWF1NWFrMjBjbWx5eTJ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I1afi5lDXT7liYatsR/giphy.gif" width="230"/>
+  </p>
+  
 💻 Sobre mim
 
 Sou estudante de Desenvolvimento de Software, apaixonado por tecnologia e focado em construir uma carreira como Desenvolvedor Back-end utilizando o ecossistema .NET.
