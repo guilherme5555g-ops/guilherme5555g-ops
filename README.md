@@ -1,72 +1,124 @@
-<h1 align="center">Olá, eu sou Guilherme 👋</h1><h3 align="center">Desenvolvedor Back-end em formação • C# • .NET • SQL</h3><p align="center">
-  <a href="https://github.com/guilherme5555g-ops">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/guilherme-freitas-039118414">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/dev.guilhermefrt">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:guilherme5555g@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>---
-<p align="center">
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydXY5ZTdpNWczaGh5NnB4dXh3d25xNXJ1eWF1NWFrMjBjbWx5eTJ5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I1afi5lDXT7liYatsR/giphy.gif" width="230"/>
-  </p>
-  
-💻 Sobre mim
+<div align="center">
 
-Sou estudante de Desenvolvimento de Software, apaixonado por tecnologia e focado em construir uma carreira como Desenvolvedor Back-end utilizando o ecossistema .NET.
+# ⚡ Guilherme Freitas
 
-Atualmente desenvolvo projetos práticos para fortalecer meu portfólio, aprimorar minhas habilidades técnicas e aplicar boas práticas de programação.
+### `Backend Developer in Training`
 
-- 🌱 Aprendendo continuamente C#, .NET e SQL.
-- 🚀 Construindo projetos para meu portfólio.
-- 🎯 Em busca da primeira oportunidade na área de tecnologia.
-- 📚 Acredito que disciplina, consistência e aprendizado contínuo constroem grandes carreiras.
+**C# • .NET • ASP.NET Core • Git**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/guilherme5555g-ops)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-freitas-039118414)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:guilherme5555g@gmail.com)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0066FF,100:00D9FF&height=8&section=header" width="100%"/>
+
+</div>
 
 ---
 
-🚀 Tecnologias
+## 👨‍💻 Sobre mim
 
-<p>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>---
+Olá! Eu sou **Guilherme Freitas**, estudante e desenvolvedor em formação com foco em **Back-end**.
 
-📂 Projetos
+Tenho interesse em transformar problemas em soluções através da programação e atualmente estou aprofundando meus conhecimentos em **C#, .NET e ASP.NET Core**, com foco na construção de APIs.
 
-- 🧮 Calculadora — Aplicação de console desenvolvida em C#.
-- 🏦 Sistema Bancário — Simulação de operações bancárias utilizando Programação Orientada a Objetos.
-- ✅ To-Do List — Sistema de gerenciamento de tarefas em C#.
+Meu objetivo é me tornar um **Desenvolvedor Back-end** e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
-«Novos projetos serão adicionados conforme minha evolução.»
+📍 Recife - PE, Brasil
 
 ---
 
-📊 Estatísticas
+## ⚙️ Tecnologias
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guilherme5555g-ops&show_icons=true&theme=github_dark&hide_border=true"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme5555g-ops&layout=compact&theme=github_dark&hide_border=true"/>
-</p><p align="center">
-<img src="https://streak-stats.demolab.com?user=guilherme5555g-ops&theme=github-dark&hide_border=true"/>
-</p>---
+<div align="center">
 
-📫 Contato
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 💼 LinkedIn: https://www.linkedin.com/in/guilherme-freitas-039118414
-- 📷 Instagram: https://www.instagram.com/dev.guilhermefrt
-- 📧 E-mail: guilherme5555g@gmail.com
+</div>
 
 ---
 
-<p align="center">
-⭐ Obrigado pela visita! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
-</p>
+## 🚀 Projetos
+
+### 🧮 Calculadora
+
+Minha primeira aplicação focada em praticar **lógica de programação e fundamentos do C#**.
+
+**Principais conceitos:**
+
+- Operações matemáticas
+- Estruturas condicionais
+- Loops
+- `switch`
+- Métodos
+- `try/catch`
+- Validação de entrada
+- Classe `Math`
+
+🔗 **[Ver projeto →](https://github.com/guilherme5555g-ops/Calculadora)**
+
+---
+
+### 📝 To-Do List
+
+Aplicação para gerenciamento de tarefas desenvolvida em C#, criada para colocar em prática conceitos de programação através de uma aplicação funcional.
+
+**Conceitos praticados:**
+
+- C#
+- Métodos
+- Estruturas de repetição
+- Condicionais
+- Manipulação de dados
+- Organização de código
+
+🔗 **[Ver projeto →](https://github.com/guilherme5555g-ops/ToDo-List-Csharp)**
+
+---
+
+### 🏦 Sistema Bancário
+
+Projeto desenvolvido para simular operações de um sistema bancário e aprofundar meus conhecimentos em **C# e Programação Orientada a Objetos**.
+
+**Conceitos praticados:**
+
+- Classes
+- Objetos
+- Métodos
+- Condicionais
+- Encapsulamento
+- Organização de código
+- Programação Orientada a Objetos
+
+🔗 **[Ver projeto →](https://github.com/guilherme5555g-ops/Sistema-Bancario)**
+
+---
+
+## 📚 Atualmente estudando
+
+```text
+╔══════════════════════════════════════════════╗
+║            CURRENT LEARNING PATH             ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  [✓] C#                                      ║
+║  [✓] .NET                                    ║
+║  [✓] Git & GitHub                            ║
+║  [>] ASP.NET Core                             ║
+║  [>] REST APIs                                ║
+║                                              ║
+║  NEXT:                                       ║
+║  [ ] SQL                                     ║
+║  [ ] Entity Framework Core                   ║
+║  [ ] Authentication & JWT                    ║
+║  [ ] Docker                                  ║
+║                                              ║
+╚══════════════════════════════════════════════╝
